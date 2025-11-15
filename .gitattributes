@@ -2,3 +2,4 @@ hope纪录片.mp4 filter=lfs diff=lfs merge=lfs -text
 assets/img/实习作品.mp4 filter=lfs diff=lfs merge=lfs -text
 assets/img/服装广告TVC.mp4 filter=lfs diff=lfs merge=lfs -text
 assets/img/三九胃泰.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/img/VLOG.mp4 filter=lfs diff=lfs merge=lfs -text
